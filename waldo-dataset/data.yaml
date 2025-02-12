@@ -1,0 +1,5 @@
+train: waldo-dataset/images/train
+val: waldo-dataset/images/val
+
+nc: 1
+names: ["waldo"]
